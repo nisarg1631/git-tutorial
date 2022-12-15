@@ -23,7 +23,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
 
-Nisarg Upadhyaya [nisarg1631](http://github.com/nisarg1631)
+   * ` Aditya Rai [aditya-rai-1](http://github.com/aditya-rai-1)`.
 
 ## Task 2
 
