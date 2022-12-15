@@ -37,6 +37,9 @@ After all of you send a Pull Request, I'll add my name to 'Entries'.
 ## Task 3
 
 - Create a new branch (called Task3) in your fork. Add a dummy piece of code and push it to the current branch. 
+- Added a dummy piece of code.
+- sjkahshdsjkahjkshdjak
+- dsdshkdksdjhgvjjjjjk
 - You've now realized that you pushed something wrong. Instead of removing the commit altogether, **push another commit that will undo the changes made**. 
 - Create a pull request.
 
