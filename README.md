@@ -24,6 +24,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 ### Entries
 
 Nisarg Upadhyaya [nisarg1631](http://github.com/nisarg1631)
+
 Shiv Sagar Sah [codewith-shiv](https://github.com/codewith-shiv)
 
 ## Task 2
