@@ -1,1 +1,3 @@
 add my name to readme (shubham ranjan)
+entry:
+shubham ranjan (Shubran2004) (http://github.com/Shubran2004).
