@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     dhdsfjskdsfhksad
-    dsfjskjdfsa,mc
+    dsfjskjdfsa,mcds
     dfs;jfdkfdadedaf
     afkhehkahdsdssf
     return 0;
