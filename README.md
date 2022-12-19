@@ -26,6 +26,8 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 
 
+Nisarg Upadhyaya [nisarg1631](http://github.com/nisarg1631)
+
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
