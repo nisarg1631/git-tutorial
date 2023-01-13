@@ -23,7 +23,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
 
-Piyush Yadav [2spi] (https://github.com/2spi)
+Piyush Yadav [2spi](https://github.com/2spi)
 
 ## Task 2
 
