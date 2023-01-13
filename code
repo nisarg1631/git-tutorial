@@ -1,0 +1,10 @@
+import java.io.*;
+class abc
+{
+    public static void main(String []args)throws IOException
+    {
+        BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+        String Str = " My first time on github repository";
+        System.out.println(str);
+    }
+}
