@@ -1,0 +1,10 @@
+import java.io.*;
+class abc1
+{
+    public static void main(String []args)throws IOException
+    {
+        BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+        System.out.println("this is dummy code 1");
+        
+    }
+}
