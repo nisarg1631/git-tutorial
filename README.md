@@ -15,7 +15,7 @@ Add your name to the list below 'Entries'.
   - [This article](https://help.github.com/articles/using-pull-requests/) should give you a good idea of what pull requests are how to use them.
 
 Your entry should maintain alphabetic order and it should be in the format:
-   * ` your name [username](http://github.com/username)`.  
+   * ` Ashwini ashwini2004(http://github.com/username)`.  
 
 
 - Your Pull Request must have only one commit (if there are multiple commits, you should squash them). 
@@ -23,7 +23,11 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
 
+
+Ashwini ashwini2004
+
 Nisarg Upadhyaya [nisarg1631](http://github.com/nisarg1631)
+
 
 ## Task 2
 
@@ -61,3 +65,4 @@ Some guidelines for the tasks:
 * Your Pull Request must be rebased on the latest master.  
 * This commit must have a message that is explanatory. For eg. for Task 1: `Add name to README (Name here)`.
 * Name of the PR must be informative. For eg. for Task 1: `(Task1) Add my name to the README (Name here)`.
+your name ashwini2004(http://github.com/ashwini2004)
